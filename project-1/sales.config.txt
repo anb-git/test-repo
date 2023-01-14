@@ -1,1 +1,5 @@
 This file is designated for all kind of application configurations and SSL keys are maintained inside it.
+
+
+=> Default Connection: www.SqlServer.com
+=> Pass: Ahmad@123
